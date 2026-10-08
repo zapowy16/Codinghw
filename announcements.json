@@ -1,0 +1,13 @@
+{
+  "maintenance": false,
+  "announcements": [
+    {
+      "id": "games-soon",
+      "title": "Games fixed soon!",
+      "message": "Fixing most of the games soon. Sorry for the inconvenience.",
+      "type": "info",
+      "active": true,
+      "published": "2026-10-02T00:00:00Z"
+    }
+  ]
+}
